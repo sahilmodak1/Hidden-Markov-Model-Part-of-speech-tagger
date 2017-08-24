@@ -7,9 +7,9 @@ Data: There are 3 data files:
 
 (1) A file with tagged training data in the word/TAG format, with words separated by spaces and each sentence on a new line. (catalan_corpus_train_tagged.txt)
 
-(2)A file with untagged development data, with words separated by spaces and each sentence on a new line. (catalan_corpus_dev_raw.txt)
+(2) A file with untagged development data, with words separated by spaces and each sentence on a new line. (catalan_corpus_dev_raw.txt)
 
-(3)A file with tagged development data in the word/TAG format, with words separated by spaces and each sentence on a new line, to serve as an answer key. (catalan_corpus_dev_tagged.txt)
+(3) A file with tagged development data in the word/TAG format, with words separated by spaces and each sentence on a new line, to serve as an answer key. (catalan_corpus_dev_tagged.txt)
 
 
 Programs: There are 2 programs:
